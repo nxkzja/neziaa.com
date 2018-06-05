@@ -1,6 +1,6 @@
 [
   {
-    "url":"dl.avalon-network.net/launcher.jar",
-    "active": true
+    "uri":"dl.avalon-network.net/launcher.jar",
+    "active":true
   }
 ]
