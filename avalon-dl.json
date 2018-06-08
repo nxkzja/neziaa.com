@@ -1,5 +1,5 @@
 {
   "downloader": "Download",
-  "uri": "https://cdn.discordapp.com/attachments/408717397940240395/454648716670926850/launcher.jar",
+  "uri": "https://s3.eu-west-3.amazonaws.com/avalonmc.fr-usercontent/launcher.jar",
   "active": true
 }
