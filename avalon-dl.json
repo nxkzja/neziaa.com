@@ -1,5 +1,5 @@
 {
   "downloader": "Download",
-  "uri": "https://s3.eu-west-3.amazonaws.com/avalonmc.fr-usercontent/launcher.jar",
+  "uri": "https://cdn.avalon-network.net/www-downloads/launcher.jar",
   "active": true
 }
